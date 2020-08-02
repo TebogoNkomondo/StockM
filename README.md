@@ -27,4 +27,6 @@
 
 ## Testing
 
--
+- 10% of the data is used for testing
+- The RMSE is calculated.
+- The predicted values for the last 60 days is plotted against the actual values.
